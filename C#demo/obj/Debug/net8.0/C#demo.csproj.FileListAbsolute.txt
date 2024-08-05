@@ -1,0 +1,14 @@
+d:\docs\C#demo\C#demo\bin\Debug\net8.0\C#demo.exe
+d:\docs\C#demo\C#demo\bin\Debug\net8.0\C#demo.deps.json
+d:\docs\C#demo\C#demo\bin\Debug\net8.0\C#demo.runtimeconfig.json
+d:\docs\C#demo\C#demo\bin\Debug\net8.0\C#demo.dll
+d:\docs\C#demo\C#demo\bin\Debug\net8.0\C#demo.pdb
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.GeneratedMSBuildEditorConfig.editorconfig
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.AssemblyInfoInputs.cache
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.AssemblyInfo.cs
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.csproj.CoreCompileInputs.cache
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.dll
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\refint\C#demo.dll
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.pdb
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\C#demo.genruntimeconfig.cache
+d:\docs\C#demo\C#demo\obj\Debug\net8.0\ref\C#demo.dll
