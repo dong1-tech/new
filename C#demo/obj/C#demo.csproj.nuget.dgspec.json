@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\docs\\C#demo\\C#demo\\C#demo.csproj": {}
+    "d:\\docs\\C#demo\\C#demo\\C#demo.csproj": {}
   },
   "projects": {
-    "D:\\docs\\C#demo\\C#demo\\C#demo.csproj": {
+    "d:\\docs\\C#demo\\C#demo\\C#demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\docs\\C#demo\\C#demo\\C#demo.csproj",
+        "projectUniqueName": "d:\\docs\\C#demo\\C#demo\\C#demo.csproj",
         "projectName": "C#demo",
-        "projectPath": "D:\\docs\\C#demo\\C#demo\\C#demo.csproj",
+        "projectPath": "d:\\docs\\C#demo\\C#demo\\C#demo.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\docs\\C#demo\\C#demo\\obj\\",
+        "outputPath": "d:\\docs\\C#demo\\C#demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
